@@ -60,4 +60,4 @@ Full comparison with original study:
 - Cross-survey domain adaptation for LSST data 
 
 **Related Papers**  
-[Full Project Report](report.pdf) | [Original ViT Paper](https://arxiv.org/abs/2010.11929) | [Galaxy Zoo 2 Dataset Paper](https://arxiv.org/abs/1308.3496)
+[Full Project Report](Final_report_GMC_EP22BTECH11026.pdf) | [Original ViT Paper](https://arxiv.org/abs/2010.11929) | [Galaxy Zoo 2 Dataset Paper](https://arxiv.org/abs/1308.3496)
