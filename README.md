@@ -5,7 +5,7 @@
 
 Reproduction study of Vision Transformers (ViTs) for galaxy morphology classification using the Galaxy Zoo 2 dataset.
 
-![Confusion Matrix](ouputs/__results__files/__results___15_1.png)
+![Confusion Matrix](ouputs/__results___files/__results___15_1.png)
 
 ## Key Features
 - Achieves **89.84%** test accuracy in just **10 epochs**
